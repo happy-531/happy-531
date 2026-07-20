@@ -62,22 +62,18 @@ https://happy-531.github.io/tic-tac-toe-game/
 
 ## 📊 GitHub Stats
 
-![Happy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=happy-531&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=happy-531&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-531&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=happy-531&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=happy-531&theme=tokyonight)
-
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=happy-531&theme=tokyonight&margin-w=10)
-
+## 👥 GitHub Followers
+![GitHub followers](https://img.shields.io/github/followers/happy-531?style=for-the-badge)
 ---
 
 ## 📈 Profile Views
