@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋 I'm Happy
 
-<!--
-**happy-531/happy-531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Student
+- 💻 Learning Programming
+- 🐍 Python Enthusiast
+- 🌐 Web Development Beginner
+- 📱 Coding on Android using Termux
+- 🎯 Goal: Become a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP
+- C
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🎮 Tic-Tac-Toe Game
+https://github.com/happy-531/tic-tac-toe-game
+
+🌐 Live Demo:
+https://happy-531.github.io/tic-tac-toe-game/
+
+---
+
+### 🎁 Surprise Gift Photo Capture Website
+https://github.com/happy-531/Surprise-gift-photo-capture-website
+
+---
+
+### 💻 My First Project
+https://github.com/happy-531/My-First-Project
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- Python
+- Git & GitHub
+- Networking
+- Cybersecurity
+
+---
+
+## 🎯 2026 Goals
+
+- Build 15+ Projects
+- Learn Data Structures & Algorithms
+- Contribute to Open Source
+- Improve Web Development Skills
+
+---
+
+⭐ Thanks for visiting my profile!
